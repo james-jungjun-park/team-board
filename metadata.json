@@ -1,0 +1,5 @@
+{
+  "name": "프로 팀 칸반 (Pro Team Kanban)",
+  "description": "Linear 스타일의 고성능 팀 업무 관리 칸반 보드입니다. 드래그 앤 드롭, 우선순위 관리, 다크 모드를 지원합니다.",
+  "requestFramePermissions": []
+}
